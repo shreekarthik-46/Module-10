@@ -1,8 +1,8 @@
-#  Types of Queue-Circular Queue in Python
+# 10)e) Types of Queue-Circular Queue in Python
 
 This project demonstrates the implementation of a **Circular Queue** in Python. The queue accepts 3 user values, performs enqueue and dequeue operations, and displays the removed values.
 
----
+
 
 ##  Aim
 
@@ -11,7 +11,7 @@ To develop a Python program that implements a Circular Queue:
 - Removes the 3 values from the queue
 - Displays the removed values
 
----
+
 
 ##  Algorithm
 
