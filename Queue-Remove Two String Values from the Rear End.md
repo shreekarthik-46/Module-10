@@ -1,4 +1,4 @@
-# Queue-Remove Two String Values from the Rear End in Python 
+# 10)b) Queue-Remove Two String Values from the Rear End in Python 
 
 This Python program demonstrates how to manage a list of strings and remove the last two elements (i.e., from the rear of the list).
 
